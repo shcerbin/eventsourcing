@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/thefabric-io/eventsourcing"
+	"github.com/shcerbin/eventsourcing"
 )
 
 const maxBatchSize = 500
