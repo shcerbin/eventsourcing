@@ -1,4 +1,4 @@
-module github.com/thefabric-io/eventsourcing
+module github.com/shcerbin/eventsourcing
 
 go 1.20
 
