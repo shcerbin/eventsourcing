@@ -3,8 +3,9 @@ package pgeventstore
 import (
 	"database/sql"
 	"encoding/json"
-	"github.com/thefabric-io/eventsourcing"
 	"time"
+
+	"github.com/shcerbin/eventsourcing"
 )
 
 type event struct {
